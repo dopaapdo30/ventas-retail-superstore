@@ -1,1 +1,11 @@
+# Archivos temporales automáticos de Jupyter Notebook
 .ipynb_checkpoints/
+
+# Archivo privado con contraseñas de la base de datos (nunca debe subirse a GitHub)
+.env
+
+# Archivo temporal oculto que crea Excel mientras tienes el libro abierto
+~$*
+
+# Instaladores pesados de Windows (como el driver Npgsql) que no son código
+*.msi
